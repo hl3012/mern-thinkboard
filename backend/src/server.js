@@ -22,7 +22,7 @@ if (process.env.NODE_ENV !== "production") {
     );
 }
 app.use(express.json());
-app.use(rateLimiter);
+// app.use(rateLimiter); // 临时禁用速率限制
 
 app.use("/api/notes", notesRoutes);
 
