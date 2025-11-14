@@ -37,4 +37,4 @@ npm run dev
 
 ## **UI Pages**
 
-![1763082691474](image/README/1763082691474.png)
+![1763082847958](image/README/1763082847958.png)
